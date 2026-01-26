@@ -357,5 +357,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1769415458.170427,
+    "completed_at": 1769415459.89111,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
