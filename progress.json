@@ -375,5 +375,14 @@
       "Branch 'feature-delete' still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1769415875.164892,
+    "completed_at": 1769415877.191338,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
