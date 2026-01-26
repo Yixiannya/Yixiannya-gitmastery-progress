@@ -348,5 +348,14 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769415366.187185,
+    "completed_at": 1769415368.095514,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
   }
 ]
