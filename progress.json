@@ -366,14 +366,5 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1769415687.441596,
-    "completed_at": 1769415690.652798,
-    "comments": [
-      "Expected commit message of 'Add the search feature', got 'Add the search feature.' instead."
-    ],
-    "status": "Incomplete"
   }
 ]
